@@ -2,7 +2,7 @@
   "name": "vallev/synonymize",
   "description": "Synonym API library",
   "require": {
-    "guzzlehttp/guzzle": "^6.2"
+    "guzzlehttp/guzzle": "6.0.2"
   },
   "authors": [
     {
