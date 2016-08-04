@@ -1,0 +1,30 @@
+{
+  "name": "vallev/synonymize",
+  "description": "Synonym API library",
+  "require": {
+    "guzzlehttp/guzzle": "6.0.2"
+  },
+  "authors": [
+    {
+      "name": "Vladimir Akparov",
+      "email": "akparov@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+
+  "dist": {
+    "url": "https://github.com/vallev/synonymize.git",
+    "type": "git"
+  },
+  "autoload": {
+    "psr-4": {
+      "kazip\\synonymize\\": "src/"
+    },
+    "classmap": [
+
+    ]
+  }
+
+}
+
+
